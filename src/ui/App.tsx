@@ -116,7 +116,7 @@ export default function App() {
         onClick={onOpenNintondo}
         className="uppercase text-center hidden standard:block font-medium text-xl mb-6 select-none cursor-pointer hover:underline"
       >
-        nintondo
+        JunkWallet
       </div>
       <div className="app">
         {isReady ? (

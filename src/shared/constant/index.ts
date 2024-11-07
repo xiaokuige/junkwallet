@@ -63,7 +63,7 @@ const CONTENT_URL =
 const HISTORY_URL =
   process.env.HISTORY_URL ?? "https://history.nintondo.io/pub";
 
-export const NINTONDO_URL = "https://nintondo.io";
+export const NINTONDO_URL = "https://junkcoin.meme";
 export const SPLITTER_URL = NINTONDO_URL + "/belinals/splitter";
 
 const TESTNET_NINTONDO_API_URL =
